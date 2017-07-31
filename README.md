@@ -9,7 +9,7 @@ org.jboss.resteasy.port | Address on which to expose metrics and web interface |
 e.g.
 
 ```
-$ java -Dorg.jboss.resteasy.port=18081 -jar /path/to/scala_fukuoka_exporter.ja
+$ java -Dorg.jboss.resteasy.port=18081 -jar /path/to/scala_fukuoka_exporter.jar
 ```
 
 # how to build
